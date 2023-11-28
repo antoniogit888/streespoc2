@@ -104,7 +104,7 @@
       <configuration>
         <archive>
           <manifest>
-            <mainClass>com.mypackage.MyClass</mainClass>
+            <mainClass>mx.multiva.GreetingResource</mainClass>
           </manifest>
         </archive>
       </configuration>
